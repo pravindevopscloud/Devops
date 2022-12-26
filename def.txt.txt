@@ -1,3 +1,0 @@
-This file has been created in main branch
-This is example of collide in git.
-
